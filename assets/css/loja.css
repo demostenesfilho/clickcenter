@@ -1,0 +1,114 @@
+.categoria {
+    padding-top: 24px;
+}
+
+.categorias {
+    display:flex;
+    flex-direction: row;
+}
+
+.item-categoria {
+    padding-right: 15px;
+}
+
+.pesquisa {
+    padding-top: 24px;
+    display: flex;
+    flex-direction: row;
+}
+
+h2 {
+    padding-bottom: 10px;
+}
+
+.informacoes {
+    padding-top: 24px;
+}
+
+.item-informacao {
+    margin-bottom: 10px;
+    padding: 20px;
+    height: 300px;
+    width: 100%;
+    background-color: #d9d9d9;
+    border-radius: 20px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+h3 {
+    align-items: center;
+    justify-content: center;
+}
+
+.produto {
+    display: flex;
+    flex-direction: column;
+    height: 180px;
+    width: 140px;
+    margin: 0px 15px;
+}
+
+.vitrine {
+    margin-top: 24px;
+    margin-bottom: 130px;
+}
+
+.produtos {
+    display: flex;
+    justify-content: space-between;
+}
+
+.foto-produto {
+    border-radius: 20px;
+}
+
+.modelo-produto {
+    font-size: 16px;
+    margin-top: 5px;
+}
+
+.preco-produto {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.btn-comprar {
+    margin-top: 5px;
+    background-color: #d9d9d9;
+    border: none;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.paginacao {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 24px;
+}
+
+.lista-contatos {
+    display: flex;
+    flex-direction: column;
+}
+
+.link {
+    text-decoration: none;
+    font-size: 24px;
+    color:#000;
+}
+
+.empresa {
+    margin-top: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 50px;
+    background-color: #d9d9d9;
+    border-radius: 40px 40px 0px 0px;
+}
