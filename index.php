@@ -9,6 +9,7 @@
     <h1>Sistema ainda em desenvolvimento</h1>
     <p>Deseja continuar?</p>
     <a href="loja.html">Clique aqui para ver o design da loja</a>
-    <a href="minhaloja/dashboard.html">Clique aqui para ver o design do painel de controle de loja</a>
+    <br>
+    <a href="minhaloja/light/dashboard.html">Clique aqui para ver o design do painel de controle de loja</a>
 </body>
 </html>
